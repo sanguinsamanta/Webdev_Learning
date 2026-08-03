@@ -1,0 +1,28 @@
+.header{
+    font-style:italic;
+}
+.color-title{
+    font-weight:normal;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:aqua;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
+*{
+    background-color: teal;
+}
