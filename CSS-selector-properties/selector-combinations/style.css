@@ -1,0 +1,18 @@
+h1, h2{
+    color:blueviolet;
+}
+.box > .done{
+    color: chocolate;
+}
+.box .list{
+    color: rgb(18, 52, 206);
+}
+.box li{
+    color:greenyellow;
+}
+li.done{
+    color:green;
+}
+ul p.done{
+    font-size: 0.5rem;
+}
